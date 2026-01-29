@@ -1,2 +1,8 @@
-# RetailProject
-An end-to-end batch data pipeline using spark and answering some business questions.
+# Project Overview
+This project demonstrates an end-to-end data engineering workflow using a retail transactions dataset.
+The goal is to ingest, clean, transform, and analyze retail transaction data to generate actionable business insights using Apache Spark (PySpark).
+
+The project follows data engineering best practices, including:
+- Schema validation
+- Data transformations
+- Analytical aggregations
